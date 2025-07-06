@@ -6,3 +6,4 @@ const ele2 = React.createElement("h2" , {id:"first" , className:"head" , style:{
 const divv = React.createElement("div" , {} , [ele , ele2]);
 reactroot.render(divv);
 const c = "hello bhailog";
+const gfh = "git and github";
