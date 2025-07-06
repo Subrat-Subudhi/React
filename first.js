@@ -5,3 +5,4 @@ const ele2 = React.createElement("h2" , {id:"first" , className:"head" , style:{
 // reactroot.render(ele2);
 const divv = React.createElement("div" , {} , [ele , ele2]);
 reactroot.render(divv);
+const c = "hello bhailog";
